@@ -14,13 +14,10 @@ My name is Anton Pshenychnyi and I'm a java software developer. I'm from Ukraine
 ![](https://img.shields.io/badge/-Maven-da002f?style=for-the-badge&logo=maven&logoColor=00ae46)
 ![](https://img.shields.io/badge/-junit5-005a31?style=for-the-badge&logo=junit5&logoColor=bc3138)
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; Langs
 
 <a href="https://github.com/PshenAI/PshenAI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PshenAI&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/PshenAI/PshenAI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PshenAI&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Anton's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PshenAI&hide=javascript,html,css,tex&layout=donut&langs_count=4&theme=rose" />
 </a>
 
 <!-- links to social media icons -->
