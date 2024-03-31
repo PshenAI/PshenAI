@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/PshenAI/PshenAI/master/banner.png "Header")](https://www.linkedin.com/in/pshenai/)
+[![Header](https://raw.githubusercontent.com/PshenAI/PshenAI/master/assets/banner.png "Header")](https://www.linkedin.com/in/pshenai/)
 
 # Hello, world! <img src="https://raw.githubusercontent.com/PshenAI/PshenAI/master/wave.gif" width="30px" height="30px" />
 
@@ -24,7 +24,7 @@ You can find me on [![LinkedIn][1.2]][1].
 
 <!-- icons -->
 
-[1.2]: https://raw.githubusercontent.com/PshenAI/PshenAI/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://raw.githubusercontent.com/PshenAI/PshenAI/master/assets/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to social media accounts -->
