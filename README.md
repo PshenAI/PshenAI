@@ -1,6 +1,6 @@
-<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
+[![Header](https://raw.githubusercontent.com/PshenAI/PshenAI/master/banner.png "Header")](https://www.linkedin.com/in/pshenai/)
 
-# Hello world! <img src="https://raw.githubusercontent.com/PshenAI/PshenAI/master/wave.gif" width="30px" height="30px" />
+# Hello, world! <img src="https://raw.githubusercontent.com/PshenAI/PshenAI/master/wave.gif" width="30px" height="30px" />
 
 My name is Anton Pshenychnyi and I'm a java software developer. I'm from Ukraine, living in Kyiv right now. You can find me on [![LinkedIn][1.2]][1].
 
