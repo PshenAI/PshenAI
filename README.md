@@ -17,7 +17,7 @@ My name is Anton Pshenychnyi and I'm a java software developer. I'm from Ukraine
 ## &#x1f4c8; Langs
 
 <a href="https://github.com/PshenAI/PshenAI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PshenAI&hide=javascript,html,css,tex&layout=donut&langs_count=4&theme=rose" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PshenAI&hide=javascript,html,css,tex&layout=compact&langs_count=4&theme=ambient_gradient" />
 </a>
 
 <!-- links to social media icons -->
