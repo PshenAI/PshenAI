@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/PshenAI/PshenAI/master/assets/banner.png "Header")](https://www.linkedin.com/in/pshenai/)
 
-# Hello, world! <img src="https://raw.githubusercontent.com/PshenAI/PshenAI/master/wave.gif" width="30px" height="30px" />
+# Hello, world! <img src="https://raw.githubusercontent.com/PshenAI/PshenAI/master/assets/wave.gif" width="30px" height="30px" />
 
 My name is Anton Pshenychnyi and I'm a Java software developer. I'm from Ukraine, living in Kyiv right now. 
 
