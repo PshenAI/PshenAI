@@ -22,6 +22,12 @@ You can find me on [![LinkedIn][1.2]][1].
 ![](https://img.shields.io/badge/-githubactions-67717D?style=for-the-badge&logo=githubactions)
 ![](https://img.shields.io/badge/-jenkins-white?style=for-the-badge&logo=jenkins)
 
+<h3>Also familiar with:</h3>
+
+![](https://img.shields.io/badge/-HTML-ff560f?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS-414df7?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 <!-- icons -->
 
 [1.2]: https://raw.githubusercontent.com/PshenAI/PshenAI/master/assets/linkedin-3-16.png (LinkedIn icon without padding)
